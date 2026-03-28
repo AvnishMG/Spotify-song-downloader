@@ -1,0 +1,3 @@
+-install app_automatedsongdownload.exe
+-run it
+-follow the instructions
